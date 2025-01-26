@@ -1,4 +1,4 @@
-![ci result]([IMAGE_URL](https://github.com/fernandopasik/learn-cicd-starter/actions/workflows/ci/badge.svg))
+![ci result](https://github.com/fernandopasik/learn-cicd-starter/actions/workflows/ci/badge.svg)
 
 # learn-cicd-starter (Notely)
 
